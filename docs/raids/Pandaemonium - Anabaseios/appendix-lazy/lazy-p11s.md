@@ -6,7 +6,7 @@ grand_parent: Pandaemonium - Anabaseios
 nav_order: 4
 ---
 
-![image](/docs/assets/images/p11s/maxresdefault.jpg)
+![image]({{ site.baseurl}}/docs/assets/images/p11s/maxresdefault.jpg)
 
 # ⌜💎⌟ P11S Anabaseios: The Eleventh Circle ⌜💎⌟
 

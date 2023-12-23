@@ -4,10 +4,12 @@ theme: just-the-docs
 
 url: https://salty-xiv.github.io/textbook/
 
+baseurl: /textbook
+
 plugins:
   - jekyll-default-layout
 
-favicon_ico: "/assets/images/favicon_io/favicon.ico"
+favicon_ico: "{{ site.baseurl }}/assets/images/favicon_io/favicon.ico"
 
 # Enable or disable the site search
 # Supports true (default) or false
