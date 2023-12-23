@@ -49,9 +49,9 @@ Tanks will be taking high amounts of damage, from auto attacks and from mechanic
 - When you pass a Nisi to another player, the receiving player receives the full duration of the Nisi.
 
 | Final Decree Alpha |Final Decree Beta | Final Decree Delta | Final Decree Gamma |
-| ![FinalDecreeAlpha](/docs/assets/images/tea/FinalDecreeAlpha.png) | ![FinalDecreeBeta](/docs/assets/images/tea/FinalDecreeBeta.png) | ![FinalDecreeDelta](/docs/assets/images/tea/FinalDecreeDelta.png) | ![FinalDecreeGamma](/docs/assets/images/tea/FinalDecreeGamma.png) |
+| ![FinalDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeAlpha.png) | ![FinalDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeBeta.png) | ![FinalDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeDelta.png) | ![FinalDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeGamma.png) |
 
-![sip-p2-01](/docs/assets/images/tea/sip-p2-01.png)
+![sip-p2-01]({{ site.baseurl}}/docs/assets/images/tea/sip-p2-01.png)
 
 {: .warning }
 
@@ -66,19 +66,19 @@ Verdict is cast by Brute Justice, which places an additional debuff on each play
 These debuffs are **Final Judgment: Decree Nisi** debuffs:
 
 | Final Judgement Decree Alpha |Final Judgement Decree Beta | Final Judgement Decree Delta | Final Judgement Decree Gamma |
-| ![FinalJudgementDecreeAlpha](/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) | ![FinalJudgementDecreeBeta](/docs/assets/images/tea/FinalJudgementDecreeBeta.png) | ![FinalJudgementDecreeDelta](/docs/assets/images/tea/FinalJudgementDecreeDelta.png) | ![FinalJudgementDecreeGamma](/docs/assets/images/tea/FinalJudgementDecreeGamma.png) |
+| ![FinalJudgementDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) | ![FinalJudgementDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeBeta.png) | ![FinalJudgementDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeDelta.png) | ![FinalJudgementDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeGamma.png) |
 
 {: .warning }
 
 > This debuff essentially requires a player to have a specific Nisi before the phase ends, or it guarantees a wipe.
 >
-> ![FinalJudgementDecreeAlpha](/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) means you must have ![FinalDecreeAlpha](/docs/assets/images/tea/FinalDecreeAlpha.png) at the end of the phase
+> ![FinalJudgementDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) means you must have ![FinalDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeAlpha.png) at the end of the phase
 >
-> ![FinalJudgementDecreeBeta](/docs/assets/images/tea/FinalJudgementDecreeBeta.png) means you must have ![FinalDecreeBeta](/docs/assets/images/tea/FinalDecreeBeta.png) at the end of the phase
+> ![FinalJudgementDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeBeta.png) means you must have ![FinalDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeBeta.png) at the end of the phase
 >
-> ![FinalJudgementDecreeDelta](/docs/assets/images/tea/FinalJudgementDecreeDelta.png) means you must have ![FinalDecreeDelta](/docs/assets/images/tea/FinalDecreeDelta.png) at the end of the phase
+> ![FinalJudgementDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeDelta.png) means you must have ![FinalDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeDelta.png) at the end of the phase
 >
-> ![FinalJudgementDecreeGamma](/docs/assets/images/tea/FinalJudgementDecreeGamma.png) means you must have ![FinalDecreeGamma](/docs/assets/images/tea/FinalDecreeGamma.png) at the end of the phase
+> ![FinalJudgementDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeGamma.png) means you must have ![FinalDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeGamma.png) at the end of the phase
 
 When Brute Justice casts Gavel, all players Nisis are checked. If any of these conditions are met, Brute Justice will wipe the party.
 

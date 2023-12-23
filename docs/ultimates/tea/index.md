@@ -40,7 +40,7 @@ Please look at the notes and understand the mechanics!
 
 ## Fates
 
-![sip-p4-01](/docs/assets/images/tea/sip-p4-01.png)
+![sip-p4-01]({{ site.baseurl}}/docs/assets/images/tea/sip-p4-01.png)
 
 ## Phases
 

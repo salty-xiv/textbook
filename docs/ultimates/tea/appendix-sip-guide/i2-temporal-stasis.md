@@ -53,11 +53,11 @@ Resolution
 
 Cruise Chaser East:
 
-![sip-i2-01](/docs/assets/images/tea/sip-i2-01.png)
+![sip-i2-01]({{ site.baseurl}}/docs/assets/images/tea/sip-i2-01.png)
 
 Cruise Chaser West:
 
-![sip-i2-02](/docs/assets/images/tea/sip-i2-02.png)
+![sip-i2-02]({{ site.baseurl}}/docs/assets/images/tea/sip-i2-02.png)
 
 ## tl;dr
 

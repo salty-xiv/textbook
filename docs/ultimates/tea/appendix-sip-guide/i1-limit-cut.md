@@ -55,7 +55,7 @@ People determine this split in different ways. Some use their camera pointed in 
 
 Refer to the diagram below to determine the group splits based on the first explosion:
 
-![first explosion Example Image](/docs/assets/images/tea/sip-i1-01.png)
+![first explosion Example Image]({{ site.baseurl}}/docs/assets/images/tea/sip-i1-01.png)
 
 12 and 34 will be running along the "inner ring", while 56 and 78 will be running along the "outer ring".
 
