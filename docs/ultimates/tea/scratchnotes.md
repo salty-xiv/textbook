@@ -1,0 +1,69 @@
+## Phases
+
+- There are 4 Major phases with intermissions
+  - Living Liquid
+    - Dolls
+    - Drainage
+    - Protean 1
+    - Esuna
+    - Protean 2
+  - CC Limit cut
+    - 1256/3478
+  - BJCC
+    - Bait Chakrams
+      - Nisi pass 1
+    - Water 1/Lightning 1/Spin Crusher
+    - Bait Mines
+    - Enumeration/Tank on Ice
+      - Tank takes Mines
+      - Nisi pass 2
+    - Water 2/Lightning 2
+      - break shield
+      - Nisi pass 3
+    - Water 3/Lightning 3
+    - BPOG
+    - Bait Super Jump
+    - Rocket punch
+  - Temporal
+    - Christmas on Right
+    - Nothing Nothing on Left
+    - Assult/Lightning on BJ Wall
+    - Blue Tether EW
+      - Blue on CC is Marker/Closer
+  - Inception
+    - Cross tether not required but recommended
+    - Make square south
+    - MT -> OT -> Party bait BJ flame
+      - not a stack mech but can only take 1 flame
+    - Looking at heart
+      - Tanks/Dps with Shared Sentence on Left
+      - Rest of party to right
+    - Bait CC cleaves
+      - Dps with Blue Tether W
+      - Regen N
+      - Shield S
+      - MT baits Super Jump at wall E
+      - Rest of party E and away (will have vuls so no flex except for jump)
+  - Wormhole
+    - Looking N/away from AlexPrime
+      - Odd Left/Even Right
+    - anti KB 1-2 gcds before CC shows up
+    - 1/2 CC -> wait for Apoc Ray -> move to avoid 5/6 CC -> soak 3rd wormhole
+    - 3/4 bait BJ back side of dot -> move forward on dot -> CC -> move to avoid Laser -> move to avoid 7/8 CC
+    - 5/6 avoid chakrams -> soak 1st wormhole -> CC -> wait
+    - 7/8 avoid chakrams -> wait -> soak 2nd wormhole -> CC
+    - Post Wormhole
+      - Stack
+      - Enumeration
+        - Looking at Alex/S
+        - Tank left
+        - Healer right
+        - only enum dps in
+        - non enum dps out
+  - Jwaves
+    - repisal wave 4
+    - repisal off cd
+  - Perfect Alexander
+    - Fate A
+    - Fate B
+    - Trines
