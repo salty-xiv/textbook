@@ -7,5 +7,3 @@ gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
 gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-default-layout"
-
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
