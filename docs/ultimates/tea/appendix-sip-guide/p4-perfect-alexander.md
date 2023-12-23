@@ -40,7 +40,7 @@ We have three 2 minute buff windows, and 2 pot opportunities. For efficiency, we
 
 ## Fate
 
-![sip-p4-01](/assets/images/tea/sip-p4-01.png)
+![sip-p4-01](/docs/assets/images/tea/sip-p4-01.png)
 
 ## 🛡️ Tankbusters
 

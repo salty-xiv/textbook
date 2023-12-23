@@ -22,7 +22,7 @@ Inception Formation Toolbox: [Link](https://ff14.toolboxgaming.space/?id=8607454
 
 Wormhole Formation Toolbox: [Link](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
 
-Text Guide: [Link](/assets/documents/TEA%20P3%20stuff.pdf)
+Text Guide: [Link](/docs/assets/documents/TEA%20P3%20stuff.pdf)
 
 ## 2m Buff Windows
 
@@ -71,9 +71,9 @@ Crystals and orbs are assigned at random, so just be prepared to do either.
 
 ### Examples
 
-![sip-p3-01](/assets/images/tea/sip-p3-01.png)
+![sip-p3-01](/docs/assets/images/tea/sip-p3-01.png)
 
-![sip-p3-02](/assets/images/tea/sip-p3-02.png)
+![sip-p3-02](/docs/assets/images/tea/sip-p3-02.png)
 
 ## Flamethrower
 
@@ -119,7 +119,7 @@ One of the Tanks 🛡️ (the one who invulned the first Chastening Heat usually
 
 All other players will stand True East of Cruise Chaser on the 1️⃣ Marker. During the third cleave, move to the center to safely avoid Super Jump's radius.
 
-![sip-p3-03](/assets/images/tea/sip-p3-03.png)
+![sip-p3-03](/docs/assets/images/tea/sip-p3-03.png)
 
 ## Wormhole Formation
 

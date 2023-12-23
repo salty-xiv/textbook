@@ -61,7 +61,7 @@ Regen and Shield Healers should ensure that the two Melees and the OT get healed
 ### Ranged 🧙🏹🩹
 
 During Protean Wave 2, it isn't necessary to move out all the way to the wall (this increases the distance you must walk). A good distance is shown in the image below :3 Just be sure that you don't move in
-![Example Image 1](/assets/images/tea/sip-p1-01.png)
+![Example Image 1](/docs/assets/images/tea/sip-p1-01.png)
 
 ## Hand of Pain
 

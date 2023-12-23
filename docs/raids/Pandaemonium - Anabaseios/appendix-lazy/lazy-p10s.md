@@ -6,7 +6,7 @@ grand_parent: Pandaemonium - Anabaseios
 nav_order: 3
 ---
 
-![image](/assets/images/p10s/Pandaemonium-Boss-Battle-in-Final-Fantasy-XIV.png)
+![image](/docs/assets/images/p10s/Pandaemonium-Boss-Battle-in-Final-Fantasy-XIV.png)
 
 # ⌜💎⌟ P10S Anabaseios: The Tenth Circle ⌜💎⌟
 
@@ -20,10 +20,10 @@ NW/NE Wings, E/W stacks | 1-platform | 2221 MRHT (3 diagonal) | TH W, DPS E
 ```
 
 Timeline & Mitigation Sheet:
-![image](/assets/images/p10s/image.png)
+![image](/docs/assets/images/p10s/image.png)
 
 Visual Reference for the safe donut spot after Circle/Holy
-Image
+![image](/docs/assets/images/p10s/image2.png)
 
 ## 🎦 VIDEOS
 
