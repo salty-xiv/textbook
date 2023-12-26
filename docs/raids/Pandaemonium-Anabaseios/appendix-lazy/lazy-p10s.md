@@ -1,29 +1,26 @@
 ---
 title: Lazy P10S
 layout: default
-parent: Appendix - Lazy Edition
+parent: Appendix - Lazy Ed.
 grand_parent: Pandaemonium - Anabaseios
 nav_order: 3
 ---
 
-![image]({{ site.baseurl}}/docs/assets/images/p10s/Pandaemonium-Boss-Battle-in-Final-Fantasy-XIV.png)
+![image]({{ site.baseurl }}/assets/images/p10s/Pandaemonium-Boss-Battle-in-Final-Fantasy-XIV.png)
 
-# ⌜💎⌟ P10S Anabaseios: The Tenth Circle ⌜💎⌟
+# 💎 P10S Anabaseios: The Tenth Circle 💎
 
 ## Overview:
 
 [thepfstrat](https://www.thepfstrat.com/p10s)
 
-```
-NW/NE Wings, E/W stacks | 1-platform | 2221 MRHT (3 diagonal) | TH W, DPS E
-
-```
+`NW/NE Wings, E/W stacks | 1-platform | 2221 MRHT (3 diagonal) | TH W, DPS E`
 
 Timeline & Mitigation Sheet:
-![image]({{ site.baseurl}}/docs/assets/images/p10s/image.png)
+![image]({{ site.baseurl }}/assets/images/p10s/image.png)
 
 Visual Reference for the safe donut spot after Circle/Holy
-![image]({{ site.baseurl}}/docs/assets/images/p10s/image2.png)
+![image]({{ site.baseurl }}/assets/images/p10s/image2.png)
 
 ## 🎦 VIDEOS
 

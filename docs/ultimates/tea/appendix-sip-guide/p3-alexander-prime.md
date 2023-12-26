@@ -1,8 +1,8 @@
 ---
-title: Sip P3. Alexander Prime
+title: Sip P3 Alexander Prime
 layout: default
 grand_parent: The Epic of Alexander
-parent: Appendix - Sippy Edition
+parent: Appendix - TEA Sippy Ed.
 nav_order: 5
 ---
 
@@ -16,13 +16,13 @@ nav_order: 5
 > Tank Cooldown Usage: [Google Doc](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg)
 <!-- prettier-ignore-end -->
 
-# P3. Alexander Prime
+# P3 Alexander Prime
 
 Inception Formation Toolbox: [Link](https://ff14.toolboxgaming.space/?id=860745463802461&preview=1#3)
 
 Wormhole Formation Toolbox: [Link](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
 
-Text Guide: [Link]({{ site.baseurl}}/docs/assets/documents/TEA%20P3%20stuff.pdf)
+Text Guide: [Link]({{ site.baseurl }}/assets/documents/TEA%20P3%20stuff.pdf)
 
 ## 2m Buff Windows
 
@@ -71,9 +71,9 @@ Crystals and orbs are assigned at random, so just be prepared to do either.
 
 ### Examples
 
-![sip-p3-01]({{ site.baseurl}}/docs/assets/images/tea/sip-p3-01.png)
+![sip-p3-01]({{ site.baseurl }}/assets/images/tea/sip-p3-01.png)
 
-![sip-p3-02]({{ site.baseurl}}/docs/assets/images/tea/sip-p3-02.png)
+![sip-p3-02]({{ site.baseurl }}/assets/images/tea/sip-p3-02.png)
 
 ## Flamethrower
 
@@ -85,9 +85,9 @@ Crystals and orbs are assigned at random, so just be prepared to do either.
 
 Debuffs will be assigned to DPS and a Tank (if a person is dead the debuffs can get messed up):
 
-- 1x DPS and 1x Tank will be assigned <img src="/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order and be tethered to each other
-- 1x DPS will be assigned <img src="/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence, a 3x person stack
-- 2x DPS will be assigned <img src="/assets/images/tea/AggravatedAssault.png" width="20px"> Aggravated Assault; they will take damage and must not take other damage
+- 1x DPS and 1x Tank will be assigned <img src="{{ site.baseurl }}/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order and be tethered to each other
+- 1x DPS will be assigned <img src="{{ site.baseurl }}/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence, a 3x person stack
+- 2x DPS will be assigned <img src="{{ site.baseurl }}/assets/images/tea/AggravatedAssault.png" width="20px"> Aggravated Assault; they will take damage and must not take other damage
 
 ## True Heart
 
@@ -99,27 +99,27 @@ Alexander will turn invisible, but the True Heart (if awakened) will show Alexan
 
 ### Relative West
 
-- DPS with <img src="/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence
-- 2x Tank (1x with <img src="/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order)
+- DPS with <img src="{{ site.baseurl }}/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence
+- 2x Tank (1x with <img src="{{ site.baseurl }}/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order)
 - These 3 players will stack together.
 
 ### Relative East
 
 - 2x Healer
-- 2x DPS with <img src="/assets/images/tea/AggravatedAssault.png" width="20px"> Aggravated Assault
-- 1x DPS with <img src="/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order
+- 2x DPS with <img src="{{ site.baseurl }}/assets/images/tea/AggravatedAssault.png" width="20px"> Aggravated Assault
+- 1x DPS with <img src="{{ site.baseurl }}/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order
 
 Once the debuffs resolve and the Sacrament casts, everyone should quickly move towards their next positions:
 
 ## CC Cleaves
 
-The 2x Healers 🩹 and the DPS with <img src="/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order will move around CC and be ready to bait 3x cleaves (healers will take True N/S, and the DPS will take True West). Stand close to CC as the cleaves are baited by proximity.
+The 2x Healers 🩹 and the DPS with <img src="{{ site.baseurl }}/assets/images/tea/RestrainingOrder.png" width="20px"> Restraining Order will move around CC and be ready to bait 3x cleaves (healers will take True N/S, and the DPS will take True West). Stand close to CC as the cleaves are baited by proximity.
 
 One of the Tanks 🛡️ (the one who invulned the first Chastening Heat usually) will move to the very True East (opposite of Brute Justice) to bait Super Jump and use a light mit / shield.
 
 All other players will stand True East of Cruise Chaser on the 1️⃣ Marker. During the third cleave, move to the center to safely avoid Super Jump's radius.
 
-![sip-p3-03]({{ site.baseurl}}/docs/assets/images/tea/sip-p3-03.png)
+![sip-p3-03]({{ site.baseurl }}/assets/images/tea/sip-p3-03.png)
 
 ## Wormhole Formation
 

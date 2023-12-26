@@ -1,8 +1,8 @@
 ---
-title: Sip P2. Brute Justice and Cruise Chaser
+title: Sip P2 BJ & CC
 layout: default
 grand_parent: The Epic of Alexander
-parent: Appendix - Sippy Edition
+parent: Appendix - TEA Sippy Ed.
 nav_order: 3
 ---
 
@@ -16,7 +16,7 @@ nav_order: 3
 > Tank Cooldown Usage: [Google Doc](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg)
 <!-- prettier-ignore-end -->
 
-# P2. Brute Justice and Cruise Chaser
+# P2 Brute Justice and Cruise Chaser
 
 P2 Toolbox: [Link](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)
 
@@ -49,9 +49,9 @@ Tanks will be taking high amounts of damage, from auto attacks and from mechanic
 - When you pass a Nisi to another player, the receiving player receives the full duration of the Nisi.
 
 | Final Decree Alpha |Final Decree Beta | Final Decree Delta | Final Decree Gamma |
-| ![FinalDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeAlpha.png) | ![FinalDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeBeta.png) | ![FinalDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeDelta.png) | ![FinalDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeGamma.png) |
+| ![FinalDecreeAlpha]({{ site.baseurl }}/assets/images/tea/FinalDecreeAlpha.png) | ![FinalDecreeBeta]({{ site.baseurl }}/assets/images/tea/FinalDecreeBeta.png) | ![FinalDecreeDelta]({{ site.baseurl }}/assets/images/tea/FinalDecreeDelta.png) | ![FinalDecreeGamma]({{ site.baseurl }}/assets/images/tea/FinalDecreeGamma.png) |
 
-![sip-p2-01]({{ site.baseurl}}/docs/assets/images/tea/sip-p2-01.png)
+![sip-p2-01]({{ site.baseurl }}/assets/images/tea/sip-p2-01.png)
 
 {: .warning }
 
@@ -66,26 +66,26 @@ Verdict is cast by Brute Justice, which places an additional debuff on each play
 These debuffs are **Final Judgment: Decree Nisi** debuffs:
 
 | Final Judgement Decree Alpha |Final Judgement Decree Beta | Final Judgement Decree Delta | Final Judgement Decree Gamma |
-| ![FinalJudgementDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) | ![FinalJudgementDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeBeta.png) | ![FinalJudgementDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeDelta.png) | ![FinalJudgementDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeGamma.png) |
+| ![FinalJudgementDecreeAlpha]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeAlpha.png) | ![FinalJudgementDecreeBeta]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeBeta.png) | ![FinalJudgementDecreeDelta]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeDelta.png) | ![FinalJudgementDecreeGamma]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeGamma.png) |
 
 {: .warning }
 
 > This debuff essentially requires a player to have a specific Nisi before the phase ends, or it guarantees a wipe.
 >
-> ![FinalJudgementDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeAlpha.png) means you must have ![FinalDecreeAlpha]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeAlpha.png) at the end of the phase
+> ![FinalJudgementDecreeAlpha]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeAlpha.png) means you must have ![FinalDecreeAlpha]({{ site.baseurl }}/assets/images/tea/FinalDecreeAlpha.png) at the end of the phase
 >
-> ![FinalJudgementDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeBeta.png) means you must have ![FinalDecreeBeta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeBeta.png) at the end of the phase
+> ![FinalJudgementDecreeBeta]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeBeta.png) means you must have ![FinalDecreeBeta]({{ site.baseurl }}/assets/images/tea/FinalDecreeBeta.png) at the end of the phase
 >
-> ![FinalJudgementDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeDelta.png) means you must have ![FinalDecreeDelta]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeDelta.png) at the end of the phase
+> ![FinalJudgementDecreeDelta]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeDelta.png) means you must have ![FinalDecreeDelta]({{ site.baseurl }}/assets/images/tea/FinalDecreeDelta.png) at the end of the phase
 >
-> ![FinalJudgementDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalJudgementDecreeGamma.png) means you must have ![FinalDecreeGamma]({{ site.baseurl}}/docs/assets/images/tea/FinalDecreeGamma.png) at the end of the phase
+> ![FinalJudgementDecreeGamma]({{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeGamma.png) means you must have ![FinalDecreeGamma]({{ site.baseurl }}/assets/images/tea/FinalDecreeGamma.png) at the end of the phase
 
 When Brute Justice casts Gavel, all players Nisis are checked. If any of these conditions are met, Brute Justice will wipe the party.
 
-- A player has incorrect Nisi (e.g. needs purple <img src="/assets/images/tea/FinalJudgementDecreeGamma.png" width="20px"> but has blue <img src="/assets/images/tea/FinalDecreeBeta.png" width="20px">)
+- A player has incorrect Nisi (e.g. needs purple <img src="{{ site.baseurl }}/assets/images/tea/FinalJudgementDecreeGamma.png" width="20px"> but has blue <img src="{{ site.baseurl }}/assets/images/tea/FinalDecreeBeta.png" width="20px">)
 - A player has no Nisi
-- A player is missing a <img src="/assets/images/tea/FinalJudgmentPenalty3.png" width="20px"> Penalty III debuff (from dying after Verdict)
-- A player is <img src="/assets/images/tea/Confused.png" width="20px"> Confused (being hit by Cruise Chaser's Propeller Wind)
+- A player is missing a <img src="{{ site.baseurl }}/assets/images/tea/FinalJudgmentPenalty3.png" width="20px"> Penalty III debuff (from dying after Verdict)
+- A player is <img src="{{ site.baseurl }}/assets/images/tea/Confused.png" width="20px"> Confused (being hit by Cruise Chaser's Propeller Wind)
 - A player is dead
 
 ## Link-up and Water / Lightning
@@ -111,5 +111,5 @@ A stack that occurs on the player with the debuff. 3 or more players required, o
 A stack that occurs on the player with the debuff. **ONLY 2 PLAYERS**. More players will do more damage. Starts on a random DPS.
 
 - Stack 1: ⚔️🏹🧙 DPS passes to 🛡 MT
-- Stack 2: 🛡 MT passes to healer 🩹 with debuff <img src="/assets/images/tea/WaterResistanceDown.png" width="20px"> (Water 1 healer)
+- Stack 2: 🛡 MT passes to healer 🩹 with debuff <img src="{{ site.baseurl }}/assets/images/tea/WaterResistanceDown.png" width="20px"> (Water 1 healer)
 - Stack 3: 🩹 healer passes to 🛡 OT

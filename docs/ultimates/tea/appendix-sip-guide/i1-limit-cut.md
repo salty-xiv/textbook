@@ -1,8 +1,8 @@
 ---
-title: Sip I1. Limit Cut
+title: Sip I1 Limit Cut
 layout: default
 grand_parent: The Epic of Alexander
-parent: Appendix - Sippy Edition
+parent: Appendix - TEA Sippy Ed.
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 > Tank Cooldown Usage: [Google Doc](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg)
 <!-- prettier-ignore-end -->
 
-# I1. Limit Cut
+# I1 Limit Cut
 
 Limit Cut Toolbox: [Link](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
 
@@ -55,7 +55,7 @@ People determine this split in different ways. Some use their camera pointed in 
 
 Refer to the diagram below to determine the group splits based on the first explosion:
 
-![first explosion Example Image]({{ site.baseurl}}/docs/assets/images/tea/sip-i1-01.png)
+![first explosion Example Image]({{ site.baseurl }}/assets/images/tea/sip-i1-01.png)
 
 12 and 34 will be running along the "inner ring", while 56 and 78 will be running along the "outer ring".
 
