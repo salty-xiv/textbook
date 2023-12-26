@@ -1,8 +1,8 @@
 ---
-title: Sip P4. Perfect Alexander
+title: Sip P4 Perfect Alexander
 layout: default
 grand_parent: The Epic of Alexander
-parent: Appendix - Sippy Edition
+parent: Appendix - TEA Sippy Ed.
 nav_order: 6
 ---
 
@@ -21,7 +21,7 @@ nav_order: 6
 > Tank Cooldown Usage: [Google Doc](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg)
 <!-- prettier-ignore-end -->
 
-# P4. Perfect Alexander
+# P4 Perfect Alexander
 
 Perfect Alexander Toolbox: [Link](https://ff14.toolboxgaming.space/?id=615143888355361&preview=1)
 
@@ -40,7 +40,7 @@ We have three 2 minute buff windows, and 2 pot opportunities. For efficiency, we
 
 ## Fate
 
-![sip-p4-01]({{ site.baseurl}}/docs/assets/images/tea/sip-p4-01.png)
+![sip-p4-01]({{ site.baseurl }}/assets/images/tea/sip-p4-01.png)
 
 ## 🛡️ Tankbusters
 
@@ -65,7 +65,7 @@ There's not a lot of strict healing requirements in this phase, but there are ti
 
 - First Optical Sight (stack / spread): It can be beneficial to pop Temperance / Neutral / Illumination here. Save an Afflatus / Celestial Opposition / Fey Blessing after the first hit.
 - During the shared TB - make sure the tanks stay healthy. Ensure that the tank taking the big hit is healed up to full (should be OT).
-- Fate Calibration β: After the <img src="/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence and J Jump baits resolve, you'll need to quickly top everyone up (especially in the case for spreads). Things like Fey Blessing / Plenary + Afflatus Rapture / Earthly Star are useful here. Be prepared to use Tetra / Essential Dignity / Lustrate for people far away who might've missed heals.
+- Fate Calibration β: After the <img src="{{ site.baseurl }}/assets/images/tea/SharedSentence.png" width="20px"> Shared Sentence and J Jump baits resolve, you'll need to quickly top everyone up (especially in the case for spreads). Things like Fey Blessing / Plenary + Afflatus Rapture / Earthly Star are useful here. Be prepared to use Tetra / Essential Dignity / Lustrate for people far away who might've missed heals.
 
 ## Almighty Judgment and Irresistible Grace
 

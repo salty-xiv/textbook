@@ -1,7 +1,7 @@
 ---
 title: Lazy P9S - P12S
 layout: default
-parent: Appendix - Lazy Edition
+parent: Appendix - Lazy Ed.
 grand_parent: Pandaemonium - Anabaseios
 nav_order: 1
 ---

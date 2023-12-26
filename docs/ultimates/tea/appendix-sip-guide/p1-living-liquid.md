@@ -1,8 +1,8 @@
 ---
-title: Sip P1. Living Liquid
+title: Sip P1 Living Liquid
 layout: default
 grand_parent: The Epic of Alexander
-parent: Appendix - Sippy Edition
+parent: Appendix - TEA Sippy Ed.
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ nav_order: 1
 > Tank Cooldown Usage: [Google Doc](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg)
 <!-- prettier-ignore-end -->
 
-# P1. Living Liquid
+# P1 Living Liquid
 
 P1 Toolbox: [Link](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)
 
@@ -61,7 +61,7 @@ Regen and Shield Healers should ensure that the two Melees and the OT get healed
 ### Ranged 🧙🏹🩹
 
 During Protean Wave 2, it isn't necessary to move out all the way to the wall (this increases the distance you must walk). A good distance is shown in the image below :3 Just be sure that you don't move in
-![Example Image 1]({{ site.baseurl}}/docs/assets/images/tea/sip-p1-01.png)
+![Example Image 1]({{ site.baseurl }}/assets/images/tea/sip-p1-01.png)
 
 ## Hand of Pain
 

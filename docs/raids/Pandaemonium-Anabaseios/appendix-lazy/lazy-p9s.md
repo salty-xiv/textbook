@@ -1,14 +1,14 @@
 ---
 title: Lazy P9S
 layout: default
-parent: Appendix - Lazy Edition
+parent: Appendix - Lazy Ed.
 grand_parent: Pandaemonium - Anabaseios
 nav_order: 2
 ---
 
-![image]({{ site.baseurl}}/docs/assets/images/p9s/Final-Fantasy-XIV-Boss-Encounterp9s.png)
+![image]({{ site.baseurl }}/assets/images/p9s/Final-Fantasy-XIV-Boss-Encounterp9s.png)
 
-# ⌜💎⌟ P9S Anabaseios: The Ninth Circle ⌜💎⌟
+# 💎 P9S Anabaseios: The Ninth Circle 💎
 
 ## Overview:
 
@@ -59,11 +59,11 @@ Here
 >
 > After checking the front and back and inside or outside, you can find a safe spot just by looking at the short line!
 
-![image]({{ site.baseurl}}/docs/assets/images/p9s/Fxcpaf4acAA4ddD.png)
+![image]({{ site.baseurl }}/assets/images/p9s/Fxcpaf4acAA4ddD.png)
 
 ### Timeline image
 
-![image]({{ site.baseurl}}/docs/assets/images/p9s/spoiler-6-4-p9s-timeline-and-abilities-v0-0jw482dujc3b1.png)
+![image]({{ site.baseurl }}/assets/images/p9s/spoiler-6-4-p9s-timeline-and-abilities-v0-0jw482dujc3b1.png)
 
 ### Momo/Sleepo Cat
 
