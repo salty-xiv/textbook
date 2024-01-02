@@ -67,3 +67,14 @@
     - Fate A
     - Fate B
     - Trines
+
+## Tips for Stillness
+
+- PA casts Final Word
+  - This gives players the light/dark debuff
+  - Arrow on debuff means "not beacon"
+  - Light beacon go north
+  - Dark beacon go south
+  - Rest between 3/C
+- after 1 gcd or with 7secs left on the debuff, stillness or motion is casted
+- double esc to stop targeting/auto attacks right away
